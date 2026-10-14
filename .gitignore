@@ -1,0 +1,4 @@
+data/edf/*.edf
+__pycache__/
+.ipynb_checkpoints/
+
