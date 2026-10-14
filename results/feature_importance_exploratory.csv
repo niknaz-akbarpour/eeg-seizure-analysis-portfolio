@@ -1,0 +1,17 @@
+feature,random_forest_importance
+rms_mean,0.2883641654112128
+rms_sd_channels,0.18033506293031443
+line_length_mean,0.1304271402026004
+line_length_sd_channels,0.08508920990139943
+theta_alpha_ratio,0.0621056727884169
+relative_theta,0.054785171658599224
+kurtosis_mean,0.05434664143168543
+relative_beta,0.03319729847651786
+beta_alpha_ratio,0.026605628643698944
+relative_delta,0.023365661178080855
+relative_low_gamma,0.01837669231512103
+zero_crossing_mean,0.014737686282184442
+relative_alpha,0.014305479324097132
+spectral_entropy_mean,0.013958489456071192
+variance_mean,0.0
+total_power_mean,0.0
